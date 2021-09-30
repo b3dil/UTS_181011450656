@@ -1,6 +1,10 @@
 # uts_mobileprogramming
 
-A new Flutter project.
+Membuat Tampilan GridView Pada Flutter
+
+![Capture](https://user-images.githubusercontent.com/50024206/135414477-74c918bb-b762-4c13-9ad2-2825a84b7886.JPG)
+
+
 
 ## Getting Started
 
